@@ -1,1 +1,63 @@
-# VM_Lab
+<h1>Virtual Machine Home Lab</h1>
+
+
+<h2>Description</h2>
+This project demonstrates a simple virtual networking lab using two Windows 11 virtual machines configured in Oracle VirtualBox. The goal was to establish communication between the VMs using Host-Only networking (Adapter 2), allowing isolated network testing without external internet access.
+
+During the setup, I encountered and resolved IP address configuration issues by using the netsh command-line tool to manually assign and troubleshoot network settings.
+<br />
+
+
+#### 🔧 Languages and Utilities Used
+- **Operating System:** Windows 11  
+- **Virtualization Platform:** Oracle VirtualBox  
+- **Command-Line Tools:** netsh, Command Prompt (CMD)  
+- **Networking:** Host-Only Adapter configuration, IP addressing  
+
+#### 💡 Skills Demonstrated
+- Virtual network setup and configuration  
+- Troubleshooting connectivity and IP issues  
+- Using Windows networking commands for system management  
+- Understanding of host-only and isolated network environments  
+
+
+<h2>Program walk-through:</h2>
+
+<p align="center">
+Launch the utility: <br/>
+<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Select the disk:  <br/>
+<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Enter the number of passes: <br/>
+<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Confirm your selection:  <br/>
+<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Sanitization complete:  <br/>
+<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+<!--
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
+--!>
