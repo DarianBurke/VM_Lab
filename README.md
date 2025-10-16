@@ -29,14 +29,22 @@ Initial Set-Up: <br/>
 <img src="https://i.imgur.com/69q3mGt.png" height="80%" width="80%" alt="Initial setup"/>
 <br />
 
+
 <p align="center">
 VM Settings Configuration: <br/>
 <img src="https://i.imgur.com/lOHggG5.png" height="80%" width="80%" alt="VM Settings Configuration"/>
 <br />
 
+
 <p align="center">
 Both Windows 11 VMs Created: <br/>
 <img src="https://i.imgur.com/tc2yAng.png" height="80%" width="80%" alt="Both Windows 11 VMs Created"/>
+<br />
+
+
+<p align="center">
+Inbound Rules and ICMP Configuration: <br/>
+<img src="https://i.imgur.com/X89CsUe.png" height="80%" width="80%" alt="Both Windows 11 VMs Created"/>
 <br />
 
 
