@@ -29,6 +29,11 @@ Initial Set-Up: <br/>
 <img src="https://i.imgur.com/69q3mGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+<p align="center">
+VM Settings Configuration: <br/>
+<img src="https://i.imgur.com/lOHggG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 <!--
  ```diff
 - text in red
