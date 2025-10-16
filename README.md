@@ -23,6 +23,7 @@ During the setup, I encountered and resolved IP address configuration issues by 
 
 <h2>Program walk-through:</h2>
 
+<p align="center">
 Creating VMs using Oracle VirtualBox <br/>
 Initial Set-Up: <br/>
 <img src="https://i.imgur.com/69q3mGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
