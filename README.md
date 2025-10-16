@@ -26,13 +26,19 @@ During the setup, I encountered and resolved IP address configuration issues by 
 <p align="center">
 Creating VMs using Oracle VirtualBox <br/>
 Initial Set-Up: <br/>
-<img src="https://i.imgur.com/69q3mGt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/69q3mGt.png" height="80%" width="80%" alt="Initial setup"/>
 <br />
 
 <p align="center">
 VM Settings Configuration: <br/>
-<img src="https://i.imgur.com/lOHggG5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lOHggG5.png" height="80%" width="80%" alt="VM Settings Configuration"/>
 <br />
+
+<p align="center">
+Both Windows 11 VMs Created: <br/>
+<img src="https://i.imgur.com/tc2yAng.png" height="80%" width="80%" alt="Both Windows 11 VMs Created"/>
+<br />
+
 
 <!--
  ```diff
